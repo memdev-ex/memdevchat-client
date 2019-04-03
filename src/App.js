@@ -13,6 +13,7 @@ const App = ({
   submitMessage
 }) => (
   <div className="App">
+    THE POWER OF HOT RELOAD
   <div
     className='chat-area'
   >
